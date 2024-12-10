@@ -1,7 +1,7 @@
 Sistema de Controle de Estoque em Java.
 
 DESCRIÇÃO:
-Este é um projeto de controle de estoque desenvolvido em Java como parte do meu aprendizado.
+Este é um projeto de controle de estoque desenvolvido em Java como parte do meu aprendizado em programação, e treinamento da língua inglesa.
 Ele permite gerenciar itens em estoque, incluindo cadastro, atualização, exclusão e visualização dos itens.
 
 FUNCIONALIDADES:
