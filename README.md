@@ -1,18 +1,16 @@
-## Getting Started
+Sistema de Controle de Estoque em Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+DESCRIÇÃO:
+Este é um projeto de controle de estoque desenvolvido em Java como parte do meu aprendizado.
+Ele permite gerenciar itens em estoque, incluindo cadastro, atualização, exclusão e visualização dos itens.
 
-## Folder Structure
+FUNCIONALIDADES:
+* Adicionar novos itens ao estoque.
+* Editar informações dos itens.
+* Excluir itens do estoque.
+* Visualizar a lista de itens em estoque.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+TECNOLOGIAS UTILIZADAS
+* Linguagem: Java
+* IDE: VS code
+* Armazenamento: arquivo TXT
